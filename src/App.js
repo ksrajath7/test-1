@@ -10,7 +10,7 @@ function App() {
 
           <h4>Contact for collaboration: +91 75609 31829</h4>
       </header>
-    <h1>Hello</h1>
+    <h1>Hello hi</h1>
     </div>
   );
 }
